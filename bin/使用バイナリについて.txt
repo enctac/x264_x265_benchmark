@@ -1,0 +1,32 @@
+
+
+■使用バイナリについて（リリース時点で想定しているバージョン）
+
+　●cpuz_x64.exe / cpuz_x32.exe / cpuz.ini
+　　CPU-Z 1.8.0
+　　URL： http://www.cpuid.com/softwares/cpu-z.html
+
+　●ffmpeg.exe
+　　Zeranoe版の N-86723-g3b3501f x64 static (ffmpeg-20170706-3b3501f-win64-static.zip)
+　　URL： http://ffmpeg.zeranoe.com/builds/
+
+　●x264.exe
+　　Komisar氏ビルドのr2851kMod x64
+　　URL： http://komisar.gin.by/
+
+　●x265.exe
+　　rigaya氏ビルドのx265 2.5+3 x64
+　　URL： http://rigaya34589.blog135.fc2.com/
+
+　●QSVEncC
+　　rigaya氏の QSVEnc v2.71 のQSVEncCフォルダ。
+　　URL： http://rigaya34589.blog135.fc2.com/
+
+　●NVEncC
+　　rigaya氏の NVEnc v3.16 のNVEncCフォルダ。
+　　URL： http://rigaya34589.blog135.fc2.com/
+
+　●VCEEncC
+　　rigaya氏の VCEEnc v3.06 のVCEEncCフォルダ。
+　　URL： http://rigaya34589.blog135.fc2.com/
+

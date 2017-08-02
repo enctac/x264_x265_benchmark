@@ -1,0 +1,149 @@
+
+■■↓FULL ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+【SystemInfo】CPUZtoText_20170730 (CPU-Z 1.80.0.x64)
+【CPU】Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz (Haswell)(4Cores/8Threads)(22nm)
+　　2200.0MHz(22.0x100.0MHz)(37.0W)(0.93V)
+　　情報取得時の動作周波数→ 2897.2MHz(29.0x99.9MHz)
+　　(8x-22x-32x) (1)32x-(2)31x-(3)29x-(4)29x
+　　(Socket 947 rPGA (0x4))(6.C.3, 6.3C, C0)
+　　L1Data:(4x32KBytes,8-way) L1Inst:(4x32KBytes,8-way) L2:(4x256KBytes,8-way) L3:(6MBytes,12-way)
+　　MMX,SSE,SSE2,SSE3,SSSE3,SSE4.1,SSE4.2,EM64T,VT-x,AES,AVX,AVX2,FMA3
+【MotherBoard】SF53S (NEC)
+　　North:(Intel Haswell rev. 06), South:(Intel HM87 rev. C1)
+【Graphic I/F】-(-,max:-)
+【Memory】DDR3,8GBytes,Single,799.3MHz(1:6),11.0(CL)-11(tRCD)-11(tRP)-28(tRAS)-208(tRFC)-1T(CR)
+【MemSpec】DDR3L,PC3-12800(800MHz),8192MBytes,SO-DIMM,(-),Samsung,M471B1G73QH0-YK0
+【BIOS】NEC(NOTE BIOS Version /742A1102)(12/19/2013)
+【GPU】Intel(R) HD Graphics 4600 (20.19.15.4531, 09/29/2016) (-)(-,-,-)(Lenovo)
+【Storage】WDC WD10JPVX-08JC3T5,931.5GB(c:\[849.0GBytes], d:\[65.2GBytes]),RAID
+【Monitor】(), LGD03F8, 15.7inches, 1366x768@59Hz
+【OS】Microsoft Windows 10 (10.0) Home 64-bit (Build 14393) 【DirectX】12.0
+
+【↑行数は 18 行です】
+
+■■↓NORMAL ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+◎【CPU】のCPU名を単純名で表示
+◎【CPU】の情報取得時の動作周波数を非表示
+◎【CPU】のPackage(Socket)情報、Family(CPUID)情報を非表示
+◎【CPU】のキャッシュ情報を非表示
+◎【CPU】の命令セットを非表示
+◎【MotherBoard】のベンダー名を非表示
+◎【MotherBoard】のブリッジ情報を非表示
+◎【Memory】のメモリタイミングを非表示
+◎【MemSpec】で重複行を非表示
+◎【GPU】の詳細情報を非表示
+◎【Storage】のRemovableストレージを非表示
+
+
+【SystemInfo】CPUZtoText_20170730 (CPU-Z 1.80.0.x64)
+【CPU】Intel Core i7 4702MQ (Haswell)(4cores/8threads)(22nm)
+　　2200.0MHz(22.0x100.0MHz)(37.0W)(0.93V)
+　　(8x-22x-32x) (1)32x-(2)31x-(3)29x-(4)29x
+【MotherBoard】SF53S
+【Graphic I/F】-(-,max:-)
+【Memory】DDR3,8GBytes,Single,799.3MHz(1:6)
+【MemSpec】DDR3L,PC3-12800(800MHz),8192MBytes,SO-DIMM,(-),Samsung,M471B1G73QH0-YK0
+【BIOS】NEC(NOTE BIOS Version /742A1102)(12/19/2013)
+【GPU】Intel(R) HD Graphics 4600 (20.19.15.4531, 09/29/2016) (-)
+【Storage】WDC WD10JPVX-08JC3T5,931.5GB(c:\[849.0GBytes], d:\[65.2GBytes]),RAID
+【Monitor】(), LGD03F8, 15.7inches, 1366x768@59Hz
+【OS】Microsoft Windows 10 (10.0) Home 64-bit (Build 14393) 【DirectX】12.0
+
+【↑行数は 13 行です】
+
+
+■■↓SIMPLE ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+◎【CPU】のCPU名を単純名で表示
+◎【CPU】の情報取得時の動作周波数を非表示
+◎【CPU】のPackage(Socket)情報、Family(CPUID)情報を非表示
+◎【CPU】のキャッシュ情報を非表示
+◎【CPU】の命令セットを非表示
+◎【MotherBoard】のベンダー名を非表示
+◎【MotherBoard】のブリッジ情報を非表示
+◎【Graphic I/F】を非表示
+◎【Memory】でメモリタイミングを非表示
+◎【MemSpec】で重複行を非表示
+◎【GPU】で詳細情報を非表示
+◎【BIOS】を非表示
+◎【Storage】を非表示
+◎【Monitor】を非表示
+
+
+【SystemInfo】CPUZtoText_20170730 (CPU-Z 1.80.0.x64)
+【CPU】Intel Core i7 4702MQ (Haswell)(4cores/8threads)(22nm)
+　　2200.0MHz(22.0x100.0MHz)(37.0W)(0.93V)
+　　(8x-22x-32x) (1)32x-(2)31x-(3)29x-(4)29x
+【MotherBoard】SF53S
+【Memory】DDR3,8GBytes,Single,799.3MHz(1:6)
+【MemSpec】DDR3L,PC3-12800(800MHz),8192MBytes,SO-DIMM,(-),Samsung,M471B1G73QH0-YK0
+【GPU】Intel(R) HD Graphics 4600 (20.19.15.4531, 09/29/2016) (-)
+【OS】Microsoft Windows 10 (10.0) Home 64-bit (Build 14393) 【DirectX】12.0
+
+【↑行数は 9 行です】
+
+
+■■↓CPUZ_BENCH ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+◎【CPU-Z】を表示
+◎【CPU】のCPU名を単純名で表示
+◎【CPU】の情報取得時の動作周波数を非表示
+◎【CPU】のPackage(Socket)情報、Family(CPUID)情報を非表示
+◎【CPU】のキャッシュ情報を非表示
+◎【CPU】の命令セットを非表示
+◎【MotherBoard】のベンダー名を非表示
+◎【MotherBoard】のブリッジ情報を非表示
+◎【Graphic I/F】を非表示
+◎【MemSpec】で重複行を非表示
+◎【GPU】で詳細情報を非表示
+◎【BIOS】を非表示
+◎【Storage】を非表示
+◎【Monitor】を非表示
+
+
+【SystemInfo】CPUZtoText_20170730 (CPU-Z 1.80.0.x64)
+【CPU-Z】1.80.0.x64
+【CPU】Intel Core i7 4702MQ (Haswell)(4cores/8threads)(22nm)
+　　2200.0MHz(22.0x100.0MHz)(37.0W)(0.93V)
+　　(8x-22x-32x) (1)32x-(2)31x-(3)29x-(4)29x
+【MotherBoard】SF53S
+【Memory】DDR3,8GBytes,Single,799.3MHz(1:6),11.0(CL)-11(tRCD)-11(tRP)-28(tRAS)-208(tRFC)-1T(CR)
+【MemSpec】DDR3L,PC3-12800(800MHz),8192MBytes,SO-DIMM,(-),Samsung,M471B1G73QH0-YK0
+【GPU】Intel(R) HD Graphics 4600 (20.19.15.4531, 09/29/2016) (-)
+【OS】Microsoft Windows 10 (10.0) Home 64-bit (Build 14393) 【DirectX】12.0
+
+【↑行数は 10 行です】
+
+
+■■↓X264BENCH ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+◎【CPU】のPackage(Socket)情報、Family(CPUID)情報を非表示
+◎【CPU】のキャッシュ情報を非表示
+◎【CPU】の命令セットを非表示
+◎【MotherBoard】のベンダー名を非表示
+◎【MotherBoard】のブリッジ情報を非表示
+◎【Graphic I/F】を非表示
+◎【MemSpec】で重複行を非表示
+◎【BIOS】を非表示
+◎【GPU】で詳細情報を非表示
+◎【Storage】を非表示
+◎【Monitor】を非表示
+
+
+【SystemInfo】CPUZtoText_20170730 (CPU-Z 1.80.0.x64)
+【CPU】Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz (Haswell)(4Cores/8Threads)(22nm)
+　　2200.0MHz(22.0x100.0MHz)(37.0W)(0.93V)
+　　情報取得時の動作周波数→ 2897.2MHz(29.0x99.9MHz)
+　　(8x-22x-32x) (1)32x-(2)31x-(3)29x-(4)29x
+【MotherBoard】SF53S
+【Memory】DDR3,8GBytes,Single,799.3MHz(1:6),11.0(CL)-11(tRCD)-11(tRP)-28(tRAS)-208(tRFC)-1T(CR)
+【MemSpec】DDR3L,PC3-12800(800MHz),8192MBytes,SO-DIMM,(-),Samsung,M471B1G73QH0-YK0
+【GPU】Intel(R) HD Graphics 4600 (20.19.15.4531, 09/29/2016) (-)
+【OS】Microsoft Windows 10 (10.0) Home 64-bit (Build 14393) 【DirectX】12.0
+
+【↑行数は 10 行です】
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■

@@ -2,7 +2,12 @@ x264_x265_benchmark
 
 ■更新履歴
 
-2017/08/03　GitHubに「x264_x265_benchmark_20170730」を公開。
+2017/08/03　「x264_x265_benchmark_20170730」をGitHubで公開。
+　　　　　　README.mdを含むテキストの整備等をした程度で、バッチ自体には変更無し。
+　　　　　　　https://github.com/enctac/x264_x265_benchmark
+
+2017/07/31　単体版のCPUZtoTextをGitHubで公開。
+　　　　　　　https://github.com/enctac/CPUZtoText
 
 2017/07/30　「x264_x265_benchmark_20170730」を公開。
 　----------------システム情報収集支援バッチ------------------------------
